@@ -1,4 +1,4 @@
-## Problema 
+##Problema 
 
 Sabendo que $s_0$ é a população inicial cidade e $r_0$ a do subúbio
 $$
